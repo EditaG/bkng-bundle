@@ -1,5 +1,5 @@
 {
-    "name": "melifaro/melifaro-booking-bundle",
+    "name": "katph/melifaro-booking-bundle",
     "type": "symfony-bundle",
     "keywords": ["booking", "availability", "calendar"],
     "homepage": "http://me1ifaro.github.io/MelifaroBookingBundle",
